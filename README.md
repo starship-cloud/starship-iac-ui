@@ -1,2 +1,2 @@
 # starship-iac-ui
-Starship-IaC-UI is the web front for an Web-GUI based tool for implementing Infrastructure as Code
+Starship-IaC-UI is the web front of an Web-GUI based tool which is targeting to implement Infrastructure as Code in teams.
